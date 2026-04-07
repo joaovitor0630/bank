@@ -8,7 +8,6 @@ import entities.Usuario;
 
 public class Program {
 	public static void main(String[] args) {
-		//configurações
 		Scanner sc = new Scanner(System.in);
 		Locale.setDefault(Locale.US);
 		
@@ -20,7 +19,7 @@ public class Program {
 		
 		
 
-		//entrada de dados do usuário
+		//entrada de dados do usuï¿½rio
 		System.out.print("enter account number: ");
 		accountNumber = sc.nextInt();
 		
